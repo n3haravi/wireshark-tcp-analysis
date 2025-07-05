@@ -1,5 +1,5 @@
-HEAD
-Analyzing TCP & DNS Traffic with Wireshark
+
+Analyzing TCP & DNS Traffic with Wireshark!!
 
 This project uses Wireshark to capture and analyze real-world network traffic. I focused on identifying and understanding:
 
